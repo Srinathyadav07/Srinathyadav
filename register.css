@@ -1,0 +1,23 @@
+body{
+    background-image: url(cake12.jpg);
+    background-repeat: no-repeat;
+    background-size: 1050px 550px;
+}
+form{
+    width: 150;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+label{
+    color: aquamarine;
+    font-size: 25px;
+    font-weight: bold;
+}
+input{
+    height: 30px;
+    background-color: antiquewhite;
+}
+button
+{
+    background-color: rgb(165, 165, 42);
+}

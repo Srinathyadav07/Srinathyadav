@@ -1,0 +1,18 @@
+*{
+    margin: opx;
+    padding: opx;
+}
+body{
+    background-image: url(cake.jpg);
+    background-repeat: no-repeat;
+    background-size: 1290px 600px;
+}
+#text1{
+    color: brown;
+    font-size: 60px;
+    margin-top: 65px;
+    margin-left: 70px;
+}
+#text{
+   color: azure; 
+}
